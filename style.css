@@ -24,9 +24,10 @@ text-decoration-color: seashell;
 }
 
 .square {
-    border: 2px; 
-    height: 250 px;
+    border: 2px solid black;
+    height: 250px;
     width:250px;
     margin:5%;
     padding: 1em;
 }
+
